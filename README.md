@@ -1,6 +1,7 @@
-# Government of India Face Liveness Detection System
+# YellowSense Technologies - UIDAI Face Liveness Detection System
 
 A production-ready React Native mobile application for secure biometric authentication using advanced face liveness detection technology.
+https://YellowSense.in
 
 ## 🏛️ Government Standards
 
@@ -287,15 +288,14 @@ npx expo start
 
 ## 📞 Support
 
-- **Technical Support**: support@gov.in
-- **Emergency Helpline**: 1800-XXX-EMERGENCY  
-- **Documentation**: https://docs.gov.in/faceauth
-- **Status Page**: https://status.gov.in
+- **Technical Support**: prakhar@yellowsense.in
+- **Documentation**: https://yellowsense.in
+
 
 ## 📄 License
 
-**Proprietary** - Government of India
-© 2026 Ministry of Electronics & Information Technology. All rights reserved.
+**Proprietary** - YellowSense
+© 2026 YellowSense Technologies. All rights reserved.
 
 ## 🔄 Version History
 
