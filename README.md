@@ -1,7 +1,7 @@
 # YellowSense Face Liveness Detection SDK For Android
 
 <div align="center">
-  <img src="app/src/main/res/drawable/yellowsense_logo.png" alt="YellowSense Technologies" width="200"/>
+  <img src="https://www.yellowsense.in/assets/logo.jpeg" alt="YellowSense Technologies" width="200"/>
   <h2>Advanced AI-Powered Face Liveness Detection</h2>
   <p><strong>Enterprise-Grade Biometric Security Solution</strong></p>
 </div>
