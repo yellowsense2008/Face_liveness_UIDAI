@@ -74,7 +74,7 @@ YellowSense Face Liveness Detection System is an enterprise-grade biometric secu
 *Advanced AI-Powered Biometric Security*
 
 **Contact**: hr@yellowsense.in  
-**Repository**: `https://github.com/yellowsense2008/Face_liveness_UIDAI`
+**Repository**: `https://github.com/yellowsense2008/YellowSense_FaceLiveness_Detection`
 
 ---
 
