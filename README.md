@@ -14,7 +14,7 @@ YellowSense Face Liveness Detection System is an enterprise-grade biometric secu
 
 📱 **Ready to Test?** Download the latest V2 APK:
 
-[**Download app-debug.apk**](android/app/build/outputs/apk/debug/app-debug.apk) (45MB)
+[**Download app-debug.apk**](apk/FaceLivenessV2.apk) (150MB)
 
 ### Installation Instructions
 1. Download the APK file to your Android device
